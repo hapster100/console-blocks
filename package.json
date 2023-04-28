@@ -1,0 +1,12 @@
+{
+  "name": "console-ui",
+  "version": "1.0.0",
+  "description": "Tools for console ui",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "node --test --test-reporter spec"
+  },
+  "author": "",
+  "license": "ISC"
+}
