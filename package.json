@@ -1,12 +1,17 @@
 {
-  "name": "console-ui",
-  "version": "1.0.0",
+  "name": "console-blocks",
+  "version": "0.0.1",
   "description": "Tools for console ui",
   "main": "index.js",
   "type": "module",
+  "keywords": ["console"],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hapster100/console-blocks"
+  },
   "scripts": {
     "test": "node --test --test-reporter spec"
   },
-  "author": "",
+  "author": "AlAnd97 <aandreenko1997@gmail.com>",
   "license": "ISC"
 }
