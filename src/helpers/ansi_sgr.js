@@ -32,7 +32,6 @@ export const back8bit = (i0to255) => escape(48, 5, i0to255)
 export const back24bit = (r, g, b) => escape(48, 2, r, g, b)
 export const backDefault = () => escape(49)
 
-
 export const under8bit = (i0to255) => escape(58, 5, i0to255)
 export const under24bit = (r, g, b) => escape(58, 2, r, g, b)
 export const underDefault = () => escape(59)
